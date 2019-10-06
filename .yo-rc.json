@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.simplifycode"
+    },
+    "jhipsterVersion": "6.3.1",
+    "applicationType": "microservice",
+    "baseName": "microservice1",
+    "packageName": "com.simplifycode",
+    "packageFolder": "com/simplifycode",
+    "serverPort": "8081",
+    "authenticationType": "uaa",
+    "uaaBaseName": "uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NDQ4ZDYzYTI3ZTBkMDdkMmRjODYzNDQ4Njc3MDFmN2YwZmI2N2ZkNjIzYTgxMDNlNDk1NGQ4NzkzN2FlMjE2MjQxMzgxOGMyNTA2N2IxOTk1MTg3N2Y0YmJhMWYxMDRmYzg0ZTQ5MDdkMjJmZDM2N2EyNTczNGM4MmExMDhkNmI=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
